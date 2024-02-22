@@ -10,6 +10,7 @@ The following investigation uses the findings from the case study “Prosthetic 
 
 The hypothesis of the paper is to investigate if the stiffness categories also increase consistently as the size of the foot increases. This is another limitation in the field of prosthetic feet as it once again adds to the complexity when choosing what commercial foot suits the individual best. 
 
+## Key Topics 
 
 The investigation was carried out in five parts, broken down below:
 
@@ -17,6 +18,8 @@ The investigation was carried out in five parts, broken down below:
 -	Preliminary Comparisons of Manufacturer Stiffness Categories Statistics test 
 -	Devising a New Stiffness Category Labelling and Comparison System 
 -	Hypothesis Testing for the Consistency of Stiffness Categories across foot size 
--	Final Correlation Analysis 
+-	Final Correlation Analysis
+
+
 
 
