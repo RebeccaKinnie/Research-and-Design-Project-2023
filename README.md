@@ -23,7 +23,7 @@ The investigation was carried out in five parts, broken down below:
 -	Final Correlation Analysis
 
 
-## Statistical Analysis carried out 
+## Statistical Analysis 
 
 Each method of analysis used was carried out using python and the results provided an argument for the newly devised standardised prosthetic foot stiffness category. The following methods of statistical analysis were used to aid the investigation:
 
